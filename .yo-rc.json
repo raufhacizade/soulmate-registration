@@ -36,6 +36,9 @@
     "nativeLanguage": "en",
     "packageFolder": "com/elte/soulmate/registration",
     "jwtSecretKey": "ZDM0YmU3MDYyODcyZWUwMThkNDFlYzViZmIzODNjMzgzMDMxZTBkZmM2ZmQyYTM4YWEwMGY5ZDE0NDk0NGIyNzRhOGViM2E0OGI5NzU4OGUyNmQ5ZDY1MjI5MzUyZTZlYzliNzQwZWIyYWU5MTVhYjI1OTFlYTIyZWQyMzQzMTI=",
-    "languages": ["en", "fr"]
+    "languages": ["en", "fr"],
+    "lastLiquibaseTimestamp": 1620971967000,
+    "entities": ["Person"],
+    "appFolder": "registration"
   }
 }
